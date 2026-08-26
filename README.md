@@ -1,1 +1,1 @@
-# undergrad_capstone
+# Side Project
